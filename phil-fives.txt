@@ -6,8 +6,11 @@ https://codepen.io/phives/pen/MWwwMvp?editors=1100
 Copy the questions below into the firt-lastname.txt file on your github repo - answer each question and then push your changes.
 
     1. What is Semantic HTML?
+    Semantic HTML provides meaning to the web page.
     2. What is HTML used for?
+    HTML allows us to create and structure content such as paragraphs, headings, links, and quotes for web pages by using
     3. What is an attribute and where do we put it?
+    an attribute is a characteristic that allows us to change color, font, size, etc. of the content within our web page. We put it within a tag enclosed with quotes.
     4. What is the h1 tag used for? How many times should I use it on a page?
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document?
